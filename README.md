@@ -74,9 +74,11 @@ For a three-year PhD research project, it's important to define a clear scope an
 4. **Integration Challenges**: Integrating new sensors and technologies into existing WSNs may face practical and technical challenges.
 
 ---
+### Literature for objective 1
+
 Sure! Here’s a table listing recent work related to Objective 1, along with the identified research gaps for each:
 
----
+
 
 | **Recent Work** | **Reference** | **Research Gap** |
 |-----------------|---------------|------------------|
