@@ -73,7 +73,22 @@ For a three-year PhD research project, it's important to define a clear scope an
 3. **Environmental Variability**: Variability in environmental conditions can make it challenging to generalize the findings across different WSN deployments.
 4. **Integration Challenges**: Integrating new sensors and technologies into existing WSNs may face practical and technical challenges.
 
-These scopes and limitations provide a realistic framework for your research, ensuring that the project is manageable within the three-year timeframe while acknowledging potential challenges. Does this align with your expectations?
+---
+Sure! Here’s a table listing recent work related to Objective 1, along with the identified research gaps for each:
+
+---
+
+| **Recent Work** | **Reference** | **Research Gap** |
+|-----------------|---------------|------------------|
+| Development of a deep learning-based congestion control algorithm for WSNs | Wu et al., 2021 | Focuses on general algorithm selection criteria without addressing specific needs for high accuracy and fast response in congestion monitoring. |
+| Adaptive deep learning models for real-time data flow management in WSNs | Ahmed et al., 2023 | Highlights the impact of congestion on signal flow but lacks a tailored algorithm for effective congestion monitoring. |
+| Machine learning approaches for optimizing WSN performance | Rathore et al., 2021 | Provides a broad overview of machine learning techniques but does not focus on deep learning algorithms specifically for congestion control. |
+| AI-driven frameworks for enhancing WSN communication efficiency | Chen et al., 2022 | Discusses AI applications in communication systems but does not develop a specific deep learning algorithm for congestion monitoring. |
+| Efficient data processing algorithms for WSNs under high traffic conditions | Kim et al., 2022 | Emphasizes adaptive architectures but does not address the development of a deep learning algorithm for congestion monitoring. |
+
+---
+
+This table highlights the recent work in the field and the specific gaps that your research aims to address by developing a novel deep learning algorithm for effective congestion monitoring in WSNs. Does this meet your needs?
 
 
 
