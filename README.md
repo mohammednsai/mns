@@ -59,7 +59,21 @@ This framework is crucial for enhancing data flow and minimizing delays caused b
    - This objective focuses on creating a less complex yet efficient scheme to mitigate delays caused by computational complexity, in response to the challenges discussed by Zhou et al. (2022).
 
 ---
+For a three-year PhD research project, it's important to define a clear scope and acknowledge potential limitations. Here are some possible scopes and limitations for your research:
 
+### Scope:
+1. **Algorithm Development**: Focus on designing and testing a novel deep learning algorithm specifically for congestion monitoring in WSNs.
+2. **Framework Architecture**: Develop and implement an adaptive framework architecture that can integrate new sensors and adjust to system changes.
+3. **Barrier Analysis**: Conduct comprehensive studies to identify and mitigate barriers such as signal interference and environmental factors affecting data flow in WSNs.
+4. **Efficiency Scheme**: Create and validate a computationally efficient scheme to reduce delays caused by computational complexity in deep learning frameworks.
+
+### Limitations:
+1. **Data Availability**: Limited access to real-world WSN data might restrict the validation of the proposed solutions.
+2. **Computational Resources**: High computational requirements for deep learning models may limit the extent of experimentation and testing.
+3. **Environmental Variability**: Variability in environmental conditions can make it challenging to generalize the findings across different WSN deployments.
+4. **Integration Challenges**: Integrating new sensors and technologies into existing WSNs may face practical and technical challenges.
+
+These scopes and limitations provide a realistic framework for your research, ensuring that the project is manageable within the three-year timeframe while acknowledging potential challenges. Does this align with your expectations?
 
 
 
