@@ -28,3 +28,10 @@ This framework is crucial for enhancing data flow and minimizing delays caused b
 
 ---
 
+**Research Questions 3:**
+
+3. **What are the barriers affecting data flow in Wireless Sensor Networks, considering the impact of signal interference and environmental factors?**
+   - Chen et al. (2021) studied how environmental factors affect data accuracy and cause signal interference, increasing error rates in the system. This highlights the need to identify and address these barriers to improve data flow and system reliability in WSNs.
+
+---
+
