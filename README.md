@@ -103,5 +103,22 @@ Sure! Here’s a table listing recent work related to Objective 2, along with th
 | Dynamic reconfiguration of WSN architectures for improved data flow | Singh et al., 2023 | Highlights the importance of dynamic reconfiguration but does not provide a comprehensive framework for adaptive congestion control. |
 
 ---
+### Literature for objective 2
+
+Sure! Here’s a table listing recent work related to Objective 3, along with the identified research gaps for each:
+
+
+
+| **Recent Work** | **Reference** | **Research Gap** |
+|-----------------|---------------|------------------|
+| Impact of environmental factors on WSN data accuracy | Chen et al., 2021 | Studies environmental factors affecting data accuracy but lacks specific strategies to mitigate signal interference. |
+| Analysis of signal interference in WSNs | Singh et al., 2023 | Identifies signal interference as a barrier but does not provide comprehensive solutions to overcome it. |
+| Environmental influences on WSN performance | Zhang et al., 2022 | Discusses environmental impacts on WSN performance but does not focus on strategies to improve data flow. |
+| Mitigating environmental and architectural obstacles in WSNs | Rathore et al., 2021 | Highlights obstacles but lacks detailed approaches to address these barriers effectively. |
+| Enhancing WSN reliability through environmental adaptation | Ahmed et al., 2023 | Emphasizes the need for adaptation to environmental changes but does not offer specific methods to reduce error rates caused by signal interference. |
+
+---
+
+This table highlights the recent work in the field and the specific gaps that your research aims to address by identifying and mitigating barriers affecting data flow in WSNs. Does this meet your needs?
 
 This table highlights the recent work in the field and the specific gaps that your research aims to address by developing an optimal intelligent framework architecture for effective monitoring in WSNs. Does this meet your needs?
