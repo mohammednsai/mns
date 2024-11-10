@@ -44,4 +44,22 @@ This framework is crucial for enhancing data flow and minimizing delays caused b
 
 ---
 
+**Research Objectives:**
+
+1. **To design and develop a deep learning algorithm for effective congestion monitoring in WSNs, ensuring high accuracy and fast response.**
+   - This objective focuses on creating a robust algorithm that addresses the impact of congestion on signal flow, as highlighted by Ahmed et al. (2023).
+
+2. **To develop an adaptive framework architecture for WSNs that can efficiently monitor and manage congestion by integrating new sensors and adjusting to system changes.**
+   - This objective aims to create a flexible and adaptive architecture, addressing the gap identified by Li et al. (2022) regarding the need for a dynamic system.
+
+3. **To identify and mitigate barriers affecting data flow in WSNs by developing strategies to counteract signal interference and environmental factors.**
+   - This objective seeks to enhance data flow and system reliability by addressing issues of signal interference and environmental factors, as studied by Chen et al. (2021).
+
+4. **To develop a computationally efficient scheme for reducing cumulative delays in deep learning frameworks used for WSN congestion control.**
+   - This objective focuses on creating a less complex yet efficient scheme to mitigate delays caused by computational complexity, in response to the challenges discussed by Zhou et al. (2022).
+
+---
+
+
+
 
