@@ -13,4 +13,13 @@ This framework is crucial for enhancing data flow and minimizing delays caused b
 
 ---
 
-Does this revision align better with the level of sophistication you're aiming for in your PhD research?
+
+---
+
+**Research Questions 1:**
+
+1. **What are the essential criteria for selecting an appropriate deep learning algorithm to design and develop an intelligent framework for effective congestion monitoring in WSNs, considering the impact of congestion on signal flow?**
+   - Ahmed et al. (2023) indicated that increased congestion leads to delayed data transfer and reduced accuracy, highlighting the need for more effective solutions. According to Wu et al. (2021), algorithm selection depends on various factors, including system architecture, data flow volume, and computational requirements. Identifying these criteria is crucial to ensure high accuracy and fast response in congestion monitoring.
+
+---
+
