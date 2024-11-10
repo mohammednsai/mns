@@ -89,8 +89,19 @@ Sure! Here’s a table listing recent work related to Objective 1, along with th
 | Efficient data processing algorithms for WSNs under high traffic conditions | Kim et al., 2022 | Emphasizes adaptive architectures but does not address the development of a deep learning algorithm for congestion monitoring. |
 
 ---
+### Literature for objective 2
+Sure! Here’s a table listing recent work related to Objective 2, along with the identified research gaps for each:
 
-This table highlights the recent work in the field and the specific gaps that your research aims to address by developing a novel deep learning algorithm for effective congestion monitoring in WSNs. Does this meet your needs?
 
 
+| **Recent Work** | **Reference** | **Research Gap** |
+|-----------------|---------------|------------------|
+| Adaptive architecture for WSNs to handle dynamic data flow | Kim et al., 2022 | Focuses on general adaptive architectures but lacks specific strategies for integrating new sensors and adjusting to system changes. |
+| Flexible framework design for efficient WSN communication | Li et al., 2022 | Suggests the need for flexible architectures but does not provide a detailed implementation for effective congestion monitoring. |
+| Scalable and adaptive WSN architectures for real-time applications | Zhang et al., 2021 | Discusses scalability and adaptability but does not address the specific requirements for congestion control in WSNs. |
+| AI-based adaptive frameworks for enhancing WSN performance | Chen et al., 2022 | Explores AI applications in WSNs but lacks a focus on developing a flexible and adaptive architecture for congestion monitoring. |
+| Dynamic reconfiguration of WSN architectures for improved data flow | Singh et al., 2023 | Highlights the importance of dynamic reconfiguration but does not provide a comprehensive framework for adaptive congestion control. |
 
+---
+
+This table highlights the recent work in the field and the specific gaps that your research aims to address by developing an optimal intelligent framework architecture for effective monitoring in WSNs. Does this meet your needs?
