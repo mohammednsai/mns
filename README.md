@@ -103,7 +103,7 @@ Sure! Here’s a table listing recent work related to Objective 2, along with th
 | Dynamic reconfiguration of WSN architectures for improved data flow | Singh et al., 2023 | Highlights the importance of dynamic reconfiguration but does not provide a comprehensive framework for adaptive congestion control. |
 
 ---
-### Literature for objective 2
+### Literature for objective 3
 
 Sure! Here’s a table listing recent work related to Objective 3, along with the identified research gaps for each:
 
@@ -119,6 +119,18 @@ Sure! Here’s a table listing recent work related to Objective 3, along with th
 
 ---
 
-This table highlights the recent work in the field and the specific gaps that your research aims to address by identifying and mitigating barriers affecting data flow in WSNs. Does this meet your needs?
+### Literature for objective 4
+Sure! Here’s a table listing recent work related to Objective 4, along with the identified research gaps for each:
 
-This table highlights the recent work in the field and the specific gaps that your research aims to address by developing an optimal intelligent framework architecture for effective monitoring in WSNs. Does this meet your needs?
+
+
+| **Recent Work** | **Reference** | **Research Gap** |
+|-----------------|---------------|------------------|
+| Reducing computational complexity in deep learning for WSNs | Zhou et al., 2022 | Discusses the challenge of computational complexity but lacks specific schemes to reduce cumulative delays effectively. |
+| Efficient algorithms for real-time data processing in WSNs | Wu et al., 2021 | Focuses on real-time data processing but does not address the cumulative delays caused by computational complexity in deep learning frameworks. |
+| Optimizing deep learning models for low-power WSNs | Chen et al., 2022 | Explores optimization for low-power WSNs but does not provide solutions for reducing delays due to computational complexity. |
+| Lightweight deep learning techniques for WSN applications | Ahmed et al., 2023 | Highlights the need for lightweight techniques but lacks detailed schemes to mitigate delays from computational complexity. |
+| Enhancing deep learning efficiency in resource-constrained WSNs | Li et al., 2022 | Emphasizes efficiency in resource-constrained environments but does not offer comprehensive solutions for reducing cumulative delays. |
+
+---
+
