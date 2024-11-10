@@ -33,5 +33,15 @@ This framework is crucial for enhancing data flow and minimizing delays caused b
 3. **What are the barriers affecting data flow in Wireless Sensor Networks, considering the impact of signal interference and environmental factors?**
    - Chen et al. (2021) studied how environmental factors affect data accuracy and cause signal interference, increasing error rates in the system. This highlights the need to identify and address these barriers to improve data flow and system reliability in WSNs.
 
+
+
 ---
+
+**Research Questions 4:**
+
+4. **What are the potential solutions for reducing cumulative delays caused by computational complexity in deep learning frameworks for WSNs?**
+   - Zhou et al. (2022) discussed that computational complexity poses a significant challenge in deep learning systems, necessitating the development of less complex yet efficient algorithms. This highlights the need to explore and identify strategies that can mitigate these delays while maintaining algorithmic efficiency and effectiveness.
+
+---
+
 
